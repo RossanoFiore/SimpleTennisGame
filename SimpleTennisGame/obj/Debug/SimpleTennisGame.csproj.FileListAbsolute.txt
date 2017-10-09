@@ -1,0 +1,6 @@
+c:\users\rossano.fiore\documents\personal_projects\SimpleTennisGame\SimpleTennisGame\bin\Debug\SimpleTennisGame.exe.config
+C:\Users\rossano.fiore\Documents\personal_projects\SimpleTennisGame\SimpleTennisGame\obj\Debug\SimpleTennisGame.csprojResolveAssemblyReference.cache
+C:\Users\rossano.fiore\Documents\personal_projects\SimpleTennisGame\SimpleTennisGame\bin\Debug\SimpleTennisGame.exe
+C:\Users\rossano.fiore\Documents\personal_projects\SimpleTennisGame\SimpleTennisGame\bin\Debug\SimpleTennisGame.pdb
+C:\Users\rossano.fiore\Documents\personal_projects\SimpleTennisGame\SimpleTennisGame\obj\Debug\SimpleTennisGame.exe
+C:\Users\rossano.fiore\Documents\personal_projects\SimpleTennisGame\SimpleTennisGame\obj\Debug\SimpleTennisGame.pdb
